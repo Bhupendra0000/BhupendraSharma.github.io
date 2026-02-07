@@ -1,4 +1,4 @@
- -------------Kirana Mart ------------
+Kirana Mart 
 
  
  Technology use-- Html, javascript,css.
