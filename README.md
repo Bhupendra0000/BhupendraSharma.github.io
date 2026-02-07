@@ -1,4 +1,6 @@
  -------------Kirana Mart ------------
+
+ 
  Technology use-- Html, javascript,css.
  This project basically show a web page of kirana Mart where i can add products to cart and show numbers of items and also show amount of total items then i purchase the select     items from cart.
  <img width="1920" height="594" alt="Screenshot 2026-02-07 103251" src="https://github.com/user-attachments/assets/87340bf0-9b44-4404-a31a-7c5369057b7f" />
